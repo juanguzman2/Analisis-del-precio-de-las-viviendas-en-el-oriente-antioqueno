@@ -1,4 +1,4 @@
-tipo,precio,area,habitaciones,banos,garajes,balcon,trasn. publico,estrato,antiguedad,cocina,bano aux,zona lavanderia,zonas verdes,supermercado o cc,instalacion de gas,parqueadero visitantes,colegios / universidades,parques cercanos,zona residencial,closet,municipio,tipo_propiedad
+tipo,precio,area,habitaciones,banos,garajes,balcon,trans. publico,estrato,antiguedad,cocina,bano aux,zona lavanderia,zonas verdes,supermercado o cc,instalacion de gas,parqueadero visitantes,colegios / universidades,parques cercanos,zona residencial,closet,municipio,tipo_propiedad
 0,1380000000,320.0,5,6.0,2,1.0,1.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rionegro,casa
 1,496122600,91.97,3,3.0,1,1.0,1.0,3.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,rionegro,apartamento
 0,570000000,150.0,3,3.0,1,1.0,1.0,5.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,san antonio de pereira,casa
