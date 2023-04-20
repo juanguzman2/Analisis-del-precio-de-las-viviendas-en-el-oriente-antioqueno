@@ -47,16 +47,8 @@ Por ultimo su comportamiento multivariado en el cual se resuelven preguntas como
 
 Debido a que es una base de datos que contiene una variable dependeinte y muchas independientes se usaran los siguientes modelos con el fin de solucionar el problema:
 1. Diferentes modelos de regresion [script](https://github.com/juanguzman2/Precio-de-viviendas-en-colmbia/blob/master/Script/Modelado_estadistico/regresion_lineal.ipynb)
-2. Arboles de decision
-3. Bosque aleatorios
-4. Redes neuronales
-5. Maquina de vectores de soporte(SVM)
-6. Gradient boosting Machine (GBM)
+2. Arboles de regresion
+3. Regresión de vectores de soporte (SVR)
 
-### Seleccion del modelo
-
-Se usaran metodos de evaluacion del modelo como:
-1. MAPE: Error porcentual absoluto medio
-2. Coeficiente de determinacion (R2)
 
 
