@@ -48,7 +48,19 @@ Por ultimo su comportamiento multivariado en el cual se resuelven preguntas como
 Debido a que es una base de datos que contiene una variable dependeinte y muchas independientes se usaran los siguientes modelos con el fin de solucionar el problema:
 1. Diferentes modelos de regresion. [script](https://github.com/juanguzman2/Precio-de-viviendas-en-colmbia/blob/master/Script/Modelado_estadistico/regresion_lineal.ipynb)
 2. Arboles de regresion. [script](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Script/Modelado_estadistico/Arboles_de_desicion.ipynb)
-3. Regresión de vectores de soporte (SVR)
+3. Regresión de vectores de soporte (SVR). [script](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Script/Modelado_estadistico/SVR.ipynb)
+
+# Conlusiones
+
+De las 3 metodologias utilizadas para predecir el precio de las viviendas en el oriente antioqueño se observaron las siguientes metricas de evaluacion:
+
+|Modelo|R2|MSE|RMS2|MSEAbsoluto|Varianzaexplicada|
+---
+|Regresion lineal|0.6473|1.025940e+17|3.203029e+08|2.171681e+08|0.6503|
+|Arbol de regresion|0.711|8.389992e+16|2.896548e+08|1.895405e+08|0.711|
+|SVR|0.4911|1.480206e+17|3.847345e+08|2.203294e+08|0.5423|
+
+Se puede observar que el mejor modelo para hacer la prediccion fue el arbol de regresion.
 
 
 
