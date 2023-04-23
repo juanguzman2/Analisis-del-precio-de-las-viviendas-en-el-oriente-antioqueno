@@ -46,8 +46,8 @@ Por ultimo su comportamiento multivariado en el cual se resuelven preguntas como
 ## Prediccion del precio de las viviendas mediante metodos estadisticos
 
 Debido a que es una base de datos que contiene una variable dependeinte y muchas independientes se usaran los siguientes modelos con el fin de solucionar el problema:
-1. Diferentes modelos de regresion [script](https://github.com/juanguzman2/Precio-de-viviendas-en-colmbia/blob/master/Script/Modelado_estadistico/regresion_lineal.ipynb)
-2. Arboles de regresion
+1. Diferentes modelos de regresion. [script](https://github.com/juanguzman2/Precio-de-viviendas-en-colmbia/blob/master/Script/Modelado_estadistico/regresion_lineal.ipynb)
+2. Arboles de regresion. [script](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Script/Modelado_estadistico/Arboles_de_desicion.ipynb)
 3. Regresión de vectores de soporte (SVR)
 
 
