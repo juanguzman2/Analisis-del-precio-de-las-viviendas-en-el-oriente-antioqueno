@@ -55,7 +55,7 @@ Debido a que es una base de datos que contiene una variable dependeinte y muchas
 De las 3 metodologias utilizadas para predecir el precio de las viviendas en el oriente antioqueño se observaron las siguientes metricas de evaluacion:
 
 |Modelo|R2|MSE|RMS2|MSEAbsoluto|Varianzaexplicada|
----
+|-----|-----|-----|-----|-----|-----|
 |Regresion lineal|0.6473|1.025940e+17|3.203029e+08|2.171681e+08|0.6503|
 |Arbol de regresion|0.711|8.389992e+16|2.896548e+08|1.895405e+08|0.711|
 |SVR|0.4911|1.480206e+17|3.847345e+08|2.203294e+08|0.5423|
