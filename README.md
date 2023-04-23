@@ -62,5 +62,19 @@ De las 3 metodologias utilizadas para predecir el precio de las viviendas en el 
 
 Se puede observar que el mejor modelo para hacer la prediccion fue el arbol de regresion.
 
+A continuacion se mostrara graficamente el rendimiento de cada modelo:
 
+* Regresion lineal
+
+
+
+* Arboles de regresion
+
+
+
+
+
+* SVR:
+
+![Prediccion_SVR](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Imagenes/prediccion_reg_lineal.png?raw=true)
 
