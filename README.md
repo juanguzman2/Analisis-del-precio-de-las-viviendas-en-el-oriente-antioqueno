@@ -66,15 +66,15 @@ A continuacion se mostrara graficamente el rendimiento de cada modelo:
 
 * Regresion lineal
 
-
+![Prediccion_reg_lineal](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Imagenes/pred_reglinear.png?raw=true)
 
 * Arboles de regresion
 
-
-
-
+![Prediccion_tree](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Imagenes/pred_tree.png?raw=true)
 
 * SVR:
 
 ![Prediccion_SVR](https://github.com/juanguzman2/Analisis-del-precio-de-las-viviendas-en-el-oriente-antioqueno/blob/master/Imagenes/prediccion_reg_lineal.png?raw=true)
+
+Como conslusion en general el mejor modelo para predecir fue mediante arboles de regresion
 
